@@ -3,7 +3,7 @@
 
   $('#pageHeading').flowtype({
     minimum: 700,
-    fontRatio: 8
+    fontRatio: 10
   });
 
   $('#pageSubheading').flowtype({
